@@ -1,5 +1,5 @@
 # Herd AI
-A swarm of unmanned aerial vehicles can be built using the Herd AI tools.
+A swarm of unmanned aerial vehicles can be built and deployed using the Herd AI tools mentioned below.
 
 ### 1. Autonomous Fight Controller 
 ### 2. UAV Swarm Protocol
