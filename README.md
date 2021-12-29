@@ -1,5 +1,8 @@
 # Herd AI
-Herd AI is a complete set technologies that can be used to build a swarm of UAVs. 
+A swarm of unmanned aerial vehicles can be built using the Herd AI tools.
 
+### 1. Autonomous Fight Controller 
+### 2. UAV Swarm Protocol
+### 3. Web API
+### 4. Web API Example
 
-## Open Source Autonomous Fight Controller 
