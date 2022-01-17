@@ -1,6 +1,17 @@
 {
+  "scripts": {
+    "build-css": "tailwindcss -i src/styles.css -o public/styles.css"
+  },
   "dependencies": {
     "express": "^4.17.2",
-    "nodemon": "^2.0.15"
-  }
+    "nodemon": "^2.0.15",
+    "tailwindcss": "^3.0.13"
+  },
+  "name": "test",
+  "version": "1.0.2",
+  "description": "Hello",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
